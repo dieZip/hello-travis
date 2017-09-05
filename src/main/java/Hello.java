@@ -11,7 +11,7 @@ public class Hello {
 	 * @return "Hello Travis!"
 	 */
 	static public String sayHelloTravis() {
-		return "Hello Travis, nur Probleme hier :( ";
+		return "Hello Travis, nur Probleme hier :( ..";
 	}; 
 
 	/**
